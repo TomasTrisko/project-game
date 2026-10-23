@@ -40,7 +40,7 @@ UI obchodu by měla mít technologické rozhraní po skončení levelu s ikonami
 **SFX**: Elektrický/8-Bit styl zvuku pro skok, dopad, výstřel, zásah nepřítele a potvrzovací zvuk pri nákupu.
 
 # CHYSTANÉ POUŽITÉ TECHNOLOGIE
-**Herní engine**: Unity / Godot
+**Herní engine**: Godot
 **Ukládání dat**: JSON
 **Grafika a Level Design**: Tiled / Unity Tilemap, Aseprite / Photoshop
 **Audio**: Suno AI, Audacity a custom IRL zvuky.
